@@ -1,0 +1,39 @@
+D:\Visual Studio Projects\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.exe
+D:\Visual Studio Projects\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.deps.json
+D:\Visual Studio Projects\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.runtimeconfig.json
+D:\Visual Studio Projects\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.runtimeconfig.dev.json
+D:\Visual Studio Projects\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.dll
+D:\Visual Studio Projects\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.pdb
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.AssemblyInfo.cs
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.dll
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.pdb
+D:\Visual Studio Projects\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.genruntimeconfig.cache
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.exe
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.deps.json
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.runtimeconfig.json
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.runtimeconfig.dev.json
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.dll
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.pdb
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.csprojAssemblyReference.cache
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.AssemblyInfo.cs
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.dll
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.pdb
+C:\Users\PICHAU\Downloads\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.exe
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.deps.json
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.dll
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\bin\Debug\netcoreapp3.1\Ex1_Pizzaria.pdb
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.dll
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.pdb
+C:\Users\PICHAU\Desktop\Ex1_Pizzaria\obj\Debug\netcoreapp3.1\Ex1_Pizzaria.genruntimeconfig.cache
