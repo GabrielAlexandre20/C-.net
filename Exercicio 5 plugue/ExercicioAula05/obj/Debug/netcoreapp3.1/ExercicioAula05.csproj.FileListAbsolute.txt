@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\bin\Debug\netcoreapp3.1\ExercicioAula05.exe
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\bin\Debug\netcoreapp3.1\ExercicioAula05.deps.json
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\bin\Debug\netcoreapp3.1\ExercicioAula05.runtimeconfig.json
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\bin\Debug\netcoreapp3.1\ExercicioAula05.runtimeconfig.dev.json
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\bin\Debug\netcoreapp3.1\ExercicioAula05.dll
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\bin\Debug\netcoreapp3.1\ExercicioAula05.pdb
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.AssemblyInfo.cs
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.dll
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.pdb
+C:\Users\diego\source\repos\ExercicioAula05\ExercicioAula05\obj\Debug\netcoreapp3.1\ExercicioAula05.genruntimeconfig.cache
